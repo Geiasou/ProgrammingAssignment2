@@ -4,6 +4,7 @@
 ## Write a short comment describing this function
 
 ## I am just testing how git works
+## This is a second test -- hoping I am committing to my branch now
 
 makeCacheMatrix <- function(x = matrix()) {
 
